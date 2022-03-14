@@ -786,6 +786,15 @@ section {
 .services .iconbox-pink:hover .icon path {
   fill: #e80368;
 }
+.services .iconbox-purple i {
+  color: #6c09b8;
+}
+.services .iconbox-purple:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-purple:hover .icon path {
+  fill: #6c09b8;
+}
 .services .iconbox-yellow i {
   color: #ffbb2c;
 }
