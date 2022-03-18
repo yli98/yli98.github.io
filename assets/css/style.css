@@ -131,6 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo a {
   color: #222222;
+  font-weight: bold;
 }
 #header .logo img {
   max-height: 40px;
@@ -194,7 +195,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar a i, .navbar a:focus i {
   font-size: 12px;
   line-height: 0;
-  margin-left: 5px;
+  margin-left: 5px
+  font-weight: bold;;
 }
 .navbar > ul > li > a:before {
   content: "";
